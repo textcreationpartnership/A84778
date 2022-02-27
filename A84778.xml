@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration concerning fasting, and prayer. Of the true fast, which raiseth up the foundation of many generations; which is not the hanging down of the head like a bulrush for a day. Also; a declaration of the false fast, where is the hanging down the head like a bulrush for a day, and the bonds of iniquity standing, which iniquity seperates from God, while that is standing; the foundation of many generations is not seen. And sheweth, the prayer that God accepts, and what he hears, that which is from his Spirit, and sheweth what prayers he hears not, which is contrary to it, which God accepts not; and here you may see the difference between the true praying and the false.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84778</idno>
+            <idno type="STC">Wing F1785</idno>
+            <idno type="STC">Thomason E885_4</idno>
+            <idno type="STC">ESTC R204830</idno>
+            <idno type="EEBO-CITATION">99864293</idno>
+            <idno type="PROQUEST">99864293</idno>
+            <idno type="VID">168396</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168396)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 133:E885[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration concerning fasting, and prayer. Of the true fast, which raiseth up the foundation of many generations; which is not the hanging down of the head like a bulrush for a day. Also; a declaration of the false fast, where is the hanging down the head like a bulrush for a day, and the bonds of iniquity standing, which iniquity seperates from God, while that is standing; the foundation of many generations is not seen. And sheweth, the prayer that God accepts, and what he hears, that which is from his Spirit, and sheweth what prayers he hears not, which is contrary to it, which God accepts not; and here you may see the difference between the true praying and the false.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons at the sign of the Bull and Mouth neer Aldersgate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on A4r: G.F., i.e. George Fox.</note>
+                  <note>Annotation on Thomason copy: "Aug. 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Fasting --  Early works to 1800.</term>
+               <term>Prayer --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168396:1" rendition="simple:additions"/>
+            <p>A DECLARATION <hi>CONCERNING</hi> Faſting, and Prayer.</p>
+            <p>OF THE <hi>TRUE FAST,</hi> WHICH RAISETH UP the Foundation of many generations; which is not the hanging down of the head like a Bulruſh for a day.</p>
+            <p>
+               <hi>ALSO; A</hi> DECLARATION OF THE <hi>FALSE FAST,</hi> where is the hanging down the head like a <hi>Bulruſh</hi> for a day, and the bonds of iniquity ſtanding, which iniquity ſeperates from God, while that is ſtanding, the foundation of many Generations is not ſeen.</p>
+            <p>AND SHEWETH, The Prayer that God accepts, and what he hears, that which is from his Spirit, and ſheweth what Prayers he hears not, which is contrary to it, which God accepts not; and here you may ſee the difference between the true Praying and the falſe.</p>
+            <p>
+               <add>Aug. 9</add> 
+               <hi>London,</hi> Printed for <hi>Thomas Simmons</hi> at the ſign of the <hi>Bull and Mouth</hi> neer <hi>Alderſgate.</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="2" facs="tcp:168396:2"/>
+            <head>Concerning Faſting.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O all you that be keeping Faſts, who ſmite with the fiſt of wickedneſs, &amp; faſt for ſtrife and debate; againſt you hath the voice cryed aloud like a Trumpet. Now to you, and to all, that you may come to know the true faſt, which is accepted, and the faſt which is in the ſtrifes, and the debate, and ſmiting with the fiſts of wickedneſs; which faſt is not required of the Lord: Behold, in the day of your faſt you finde plea<g ref="char:EOLhyphen"/>ſure, and exact all your labour; behold, mark, take notice, you faſt for ſtrife and debate, to ſmite with the fiſts of wickedneſs, you ſhould not faſt as you do this day, to make your voice known on high; is it ſuch a faſt that I have cho<g ref="char:EOLhyphen"/>ſen, ſaith the Lord? a day for a man to afflict his ſoul; is it to bow down his head like a bulruſh, to ſpread ſack cloth un<g ref="char:EOLhyphen"/>der him? wilt thou call this a faſt, and acceptable day to the Lord? conſider all you that do faſt, ſee if it be not hanging down the head for a day like a bul-ruſh, and are in ſtrife and debate, and to ſmite with the fiſts of wickedneſs, whoſe voice you make to be known on high, but this faſt is not with the Lord accepted; but that which leads you from ſtriſe, from debate, from wickedneſs, which is not the bowing down of the head as a bul-ruſh for a day, and yet live in exacting and pleaſure, this is not accepted with the Lord, but that which ſeparates from all theſe before mentioned, which ſe<g ref="char:EOLhyphen"/>parates from wickedneſs, debate, ſtrife, pleaſures, ſmiting with the fifts of wickedneſs, that which ſeparates from that, brings to know the true faſt which breaks the bonds of ini<g ref="char:EOLhyphen"/>quity, and deals the bread to the hungry, brings the poor that are caſt out to his own houſe, and when he ſees any naked, he covers them, and hides not himſelf from his own
+<pb n="3" facs="tcp:168396:2"/>fleſh; here is the true faſt which ſeparates from them, where the bonds of iniquity are ſtanding, and the heavy burthens of the oppreſſed remaining, and the yoke not bro<g ref="char:EOLhyphen"/>ken, who deals not the bread to the hungry, and brings not the poor to their own houſe and ſees the naked, but lets him go unclothed, and hides himſelf from his own fleſh; yet ſuch will make their voice to be heard on high, as Chriſt ſpeaks of the Phariſees, which ſounded a trumpet before them, and disfigured their faces, to appear to men to faſt, but the bonds of iniquity were ſtanding, ſtrife and debate was ſtanding, ſtriking with the fiſts of wickedneſs ſtanding, that made their voice heard on high, who had their reward; but that which brings to the true faſt, which appears not to men to faſt, but unto the father which ſees in ſecret, and the father that ſeeth in ſecret ſhall reward thee openly; this faſt ſeperates from the Phariſees faſt, and them that bow the head for a day like a bul-ruſh; and this is it which brings to deal the bread to the hungry, and to cloth thine own fleſh when thou ſeeft them naked, and bring the poor to thine houſe, and to looſe the bonds of wickedneſs; mark, this is the faſt, and to undoe every heavy burthen; mark again, and to let the oppreſſed go free; this is the faſt, and to break every yoke; and thou that obſerveſt this faſt, then ſhall thy light break forth as the morning, and thine health ſhall ſpring forth ſpeedily, and thy righteouſneſs ſhall go before thee; the glory of the Lord ſhall be thy rear<g ref="char:EOLhyphen"/>ward, then ſhalt thou call and the Lord ſhall anſwer, thou ſhalt cry and he ſhall ſay, here I am; if thou take away from the midſt of thee the yoke, the putting forth of the finger and ſpeaking vanity, and if thou draw out thy ſoul to the hungry, and ſatisfie the afflicted ſoul, then ſhall thy light ariſe in obſcurity, and thy darkneſs be as the noon-day; the light brings to know this faſt, and walking in it this is kept, and he that believeth in darkneſs abides not. And again,
+<pb n="4" facs="tcp:168396:3"/>the Lord ſhall guide thee continually, and ſatisfie thy ſoul in drought and make fat thy bones, and thou ſhalt be like a watered garden, and like a ſpring whoſe waters fail not; theſe are them which are guided with the light which comes from Chriſt where the ſprings are. And again, they that ſhal be of thee that keeps this faſt, ſhall build the old waſte pla<g ref="char:EOLhyphen"/>ces, ſhall raiſe up the foundations of many Generations, and thou ſhalt be called the repairer of the breach, the reſtorer of the pathes to dwell in, that which gives now to ſee the foundation of many generations, the light which ſeparates from all which is out of the light, and they that go out of the light, though they may pretend a faſt, bowing down the head for a time, yet they are far from this faſt, that doth raiſe up the foundation of many generations, and is repai<g ref="char:EOLhyphen"/>rer of the breach and reſtorer of the pathes to dwell in; that which doth give to ſee this foundation of many genera<g ref="char:EOLhyphen"/>tions; and theſe breaches that are to be repaired and reſto<g ref="char:EOLhyphen"/>red, and pathes to dwell in is the light, which brings to know the true faſt, and where this faſt is known, which is from wickedneſs, from debate, from ſtrife, from pleaſures, from exacting, from the voice that is heard on high, from the ſpeaking of vanity, from the bonds of iniquity which breaks every yoke, lets the oppreſſed go free, here the health grows where the morning is known, righteouſneſs goes forth, the glory of the Lord is the rearward, and the light riſeth and the ſoul is drawn out to the hungry and ſatisfies the afflict<g ref="char:EOLhyphen"/>ed ſoul, and the ſprings of living water are known and felt, the waters fails not, here the Lord guides continually, and the foundation of many Generations comes to be ſeen and rai<g ref="char:EOLhyphen"/>ſed up, and the repairer of breaches is here witneſſed, and the reſtorer of pathes to dwell in, but all ſuch as be from the light which the Prophets were in, with which they ſaw Chriſt, and ſuch to be in faſts, where was ſtrife, where was wickedneſs, where was debate, where was bowing down
+<pb n="5" facs="tcp:168396:3"/>like a bul-ruſh for a day, lifting their voice on high, and the bonds of wickedneſs yet ſtanding and the burthens unlooſed, and the oppreſſed not let go free, and the yoke not broken, the nakedneſs not cloathed, the bread not dealt to the hun<g ref="char:EOLhyphen"/>gry and the foundation of many generations not raiſed up un<g ref="char:EOLhyphen"/>till theſe things before mentioned be broken down, on ſuch the light breaks not forth as the morning, and the Lord hears not that, and ſuch have their reward, and ſuch their iniqui<g ref="char:EOLhyphen"/>ties have ſeparated them from their God, and their ſins have hid his face from them that he cannot hear, and ſuch their hands are defiled with blood and their fingers with iniquity, whoſe lips have ſpoken lyes and tongues have mut<g ref="char:EOLhyphen"/>tered perverſeneſs; none called for juſtice, nor any plead for truth, they truſt in vanity and ſpeak lies and conceive miſ<g ref="char:EOLhyphen"/>chief and bring forth iniquity, they hatch cockatrice egges and weave the ſpiders web; he that eateth of their egges dyes, and that which is cruſhed breaks out into a viper, their web ſhal not becom garments, neither ſhal they cover them<g ref="char:EOLhyphen"/>ſelves with their works; mark and take notice, their works are works of iniquity the act of violence is in their hands, their feet run to do evill, they make haſt to ſhed innocent blood, their thoughts are thoughts of iniquity, waſting and deſtruction is in their pathes, the way of peace they know not; there is no judgement in their doings, they have made them a crooked path, whoſoever goes therein ſhal not know peace; marke, ſuch go from the light, therefore is judge<g ref="char:EOLhyphen"/>ment far, neither doth juſtice overtake; and here is obſcu<g ref="char:EOLhyphen"/>rity, and here is the walking in darkneſs, and here is the groping like blinde men as though they had no eyes, and their ſtumbling at noon-day in the deſolate places like dead men, and here is the roaring like bears and mourning ſorely like, doves, and here judgement is looked for, but there is none, and ſalvation is put far off, for the light is denyed which gives to ſee it, but here the multiplying of tranſgreſſion,
+<pb n="6" facs="tcp:168396:4"/>and their ſins teſtifying againſt them, and the tranſgreſsion that was within them, and their iniquities which they knew in tranſgreſſing &amp; lying againſt the Lord, ſpeaking the things they ſhould not, when that they knew with that of God in them they ſhould not ſpeak it, ſo departing from the way of God, ſpeaking oppreſsion, revolting, conceivings and ut<g ref="char:EOLhyphen"/>tering forth from the heart words of falſhood; here is Judge<g ref="char:EOLhyphen"/>ment turned away backward, and Juſtice ſtands afar off, truth is fallen in the ſtreets and cannot enter; yea truth falls, and he that departeth from iniquity makes himſelf a prey; yea the Lord ſaw it and it diſpleaſed him: Theſe are ſuch that are in the faſt which God doth not accept, and are not in the true faſt, whoſe light breaks forth as the morning; but theſe are ſuch that be in the falſe faſt, who grope like blinde men, and that which gives to know the true faſt and the falſe faſt is the light, which is the eye that gives to ſee each, where the true Judgement is, and the iniquity ſtand<g ref="char:EOLhyphen"/>eth not, nor the tranſgreſſor, nor the ſpeaker of lyes, but that is judged and condemned with the light which makes it manifeſt; and who be in this faſt when they call upon the Lord, the Lord will anſwer them here am I; and here truth is pleaded for and falſhood flies away, but who be out of this faſt in the perverſeneſs, tongues uttering perverſe things, are ſtumbling and groping like blinde men, which be from the light, in the iniquity which ſeparates from God, who hides his face from them that he will not hear; going from the light, goes from the Lord and his face, ſo this is it which muſt be faſted from, for this is it which ſeparates from God, and here comes the reward openly, which condemnes all that before mentioned, which is contra<g ref="char:EOLhyphen"/>trary to the light, injuſtice, iniquity, tranſgreſsion, vanity, and that which brings forth miſchief, which hatcheth the cockatrice-eggs, and weaves the ſpiders web; he that eateth of theſe eggs dyeth (mark) that which is cruſhed
+<pb n="7" facs="tcp:168396:4"/>breaks out into a Viper; (mark again) their web ſhal not be<g ref="char:EOLhyphen"/>come garments, neither ſhall they cover themſelves with their works of vanity, acts of violence is in their hands, this is all from the light in the wickedneſs; their feet run to do e<g ref="char:EOLhyphen"/>vill, make haſt to ſhed innocent blood; their thoughts are thoughts of vanity, waſting and deſtruction is in their path, this is all from the light: again, the way of peace they know not, there is no judgement in their goings; they have made them crooked pathes, whoſoever goes therein ſhall not know peace: (mark) who goes in their way that know not the way of peace, ſhall not know peace, whoſe path is crooked where there is no judgement in their goings; (take notice) no judgement in their goings; and this is all from, the light, which manifeſteth that which is to be judged where the covenant of peace is known, where all that which is contrary to it before-mentioned is kept out, which all who live in thoſe things before-mentioned contrary to the light in the falſe faſt, they may mark their path and behold their reward, who be out of the light ſtumbling and groping like blinde men, which they that be in the true faſt are from all them ſeparated, their words, their actions and fruits, and their faſt whoſe faſt breaks the bonds of iniquity, and whom the Lord hears, and to whom righteouſneſs ſprings forth and goes before them; the glory of the Lord is the Reer-ward.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="8" facs="tcp:168396:5"/>
+            <head>Friends every where, keep the Faſt to the Lord, which keeping it the foundation of many Generations will be raiſed up, therefore friends to you this is the word of the Lord God, to you all, to keep the Faſt every where to the Lord, which raiſes up the foundation of ma<g ref="char:EOLhyphen"/>ny Generations.</head>
+            <head type="sub">Concerning Prayer.</head>
+            <p>Now that all may come to know the true praying, which is with the Spirit, &amp; with the underſtanding, and here you come to know the praying with ſighs and groans which cannot utter words with a ſigh and a groan, &amp; ſo as this ſpirit comes to guide &amp; lead, yee come to the Father of Spirits, whom he hears, &amp; he is nigh unto all that call upon him in truth, who call upon him with their hearts, whoſe hearts are nigh unto him; theſe com to know the praying, every where lifting up holy hands without wrath &amp; doubting. Mark, a praying with holy hands lifted up without doubting, or wrath; ſo I will that men pray every where, (mark this) but ſee that you pray with<g ref="char:EOLhyphen"/>out wrath &amp; doubting, &amp; your hands that you lift up be holy hands, for this differs from the Phariſes praying, for they were in the wrath againſt the life, they were in the doubting and ſaid to Chriſt, <hi>How long makeſt thou us to doubt?</hi> &amp; their hands were not holy, but full of blood; and theſe ſtood praying in the Synagogues, &amp; with a pre<g ref="char:EOLhyphen"/>tence made long prayers, which devoured widows houſes, which widow had not an husband, (mark) which ſhould receive the greater condemnation; and ſuch as theſe were in the faſts, &amp; in the praying, which the Publican was more juſtified then they, that did but ſmite upon his breſt, who went home ſorrowful, his ſighs or groans was more juſtified then the Phariſes long prayers; for ſuch as have not the life, the ſpirit that gave forth the Scripture to guide them, as the Phariſes had not, that were in the long prayers, in the wrath and doubting, not holy hands, but their hands were ful of blood, who delivered the Juſt to be crucified, and ſhed the innocent blood. Now all you that do pray, who think your ſelves better then them the Scripture ſpeaks of, who were in the wrath and doubting, and not holy hands; conſider and ſee, have you that ſpirit that gave forth ſcripture? do you pray with the ſpirit? are your hands holy that you lift up? do you pray without wrath and doubting? are not you calling upon God with your lips, and your hearts wandring after your riches, your pleaſures, &amp; ſo the heart far from God? Is not the ſpirit in priſon that ſhould teach to pray? and is not here all the vain repetition, (mark) vain repetition, who pray not with the ſpirit, who are in the doubting and the wrath, hands not holy, call upon God with their lips, hearts afar off? That of God in all is my witneſs, where it is in priſon, where it is out of priſon, to which I ſpeak. And ſuch as pray not with the Spirit wait not for the Kingdome of God to be done in earth as it is in heaven, nor know not the daily bread, nor the day, neither do they forgive men their treſpaſſes that treſpaſs againſt them, neither will your father forgive your treſpaſſes, ſuch as forgive not men their treſpaſſes that treſpaſs againſt them; ſo when you pray forgive men that treſpaſs a<g ref="char:EOLhyphen"/>gainſt you, then your heavenly Father will forgive you your treſpaſſes that you have tranſgreſſed contrary to the Spirit; and here you ſhall pray without wrath or doubt<g ref="char:EOLhyphen"/>ing; for it teacheth to pray which doth forgive, and that is forgiven which inherits the Kingdome, and eats the daily bread, which witneſseth the VVill of God to be done in earth as it is in heaven, and he calls him father which is in heaven.</p>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
